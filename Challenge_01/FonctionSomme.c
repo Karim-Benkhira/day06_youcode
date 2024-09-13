@@ -4,7 +4,7 @@ int  FonctiondeSomme(int Number1,int Number2)
 {
     return Number1 + Number2;
 }
-/*
+
 int main()
 {
     int Number1,Number2;
@@ -19,4 +19,3 @@ int main()
 
     return 0;
 }
-*/
